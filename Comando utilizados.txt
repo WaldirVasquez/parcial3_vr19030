@@ -1,0 +1,13 @@
+Comando utilizados
+
+docker commpose up
+
+chmod -R 777 Parcial3_vr19030/
+
+php artisan migrate key:generate
+
+php artisan make:model nombre_del_modelo
+
+php artisan make:controller nombre_del_controlador
+
+php artisan serve
